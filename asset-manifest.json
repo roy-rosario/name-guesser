@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/name-guesser/static/css/main.14c2f381.chunk.css",
+    "main.js": "/name-guesser/static/js/main.07ca7638.chunk.js",
+    "main.js.map": "/name-guesser/static/js/main.07ca7638.chunk.js.map",
+    "runtime-main.js": "/name-guesser/static/js/runtime-main.ecfb6241.js",
+    "runtime-main.js.map": "/name-guesser/static/js/runtime-main.ecfb6241.js.map",
+    "static/js/2.5995ab92.chunk.js": "/name-guesser/static/js/2.5995ab92.chunk.js",
+    "static/js/2.5995ab92.chunk.js.map": "/name-guesser/static/js/2.5995ab92.chunk.js.map",
+    "static/js/3.5374d09c.chunk.js": "/name-guesser/static/js/3.5374d09c.chunk.js",
+    "static/js/3.5374d09c.chunk.js.map": "/name-guesser/static/js/3.5374d09c.chunk.js.map",
+    "index.html": "/name-guesser/index.html",
+    "static/css/main.14c2f381.chunk.css.map": "/name-guesser/static/css/main.14c2f381.chunk.css.map",
+    "static/js/2.5995ab92.chunk.js.LICENSE.txt": "/name-guesser/static/js/2.5995ab92.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/name-guesser/static/media/names.730716aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecfb6241.js",
+    "static/js/2.5995ab92.chunk.js",
+    "static/css/main.14c2f381.chunk.css",
+    "static/js/main.07ca7638.chunk.js"
+  ]
+}
