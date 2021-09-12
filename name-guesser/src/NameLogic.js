@@ -25,7 +25,7 @@ function NameLogic(){
     }
     
     return(
-        <>
+        <div className = "container">
         <h1>Name Checker</h1>
         <button onClick = {getData}>click for info</button>
         {/* <form className = "form">
@@ -34,7 +34,7 @@ function NameLogic(){
                 name = "nameInput"
                 value = {nameInput} />
         </form> */}
-        </>
+        </div>
     )
 }
 
